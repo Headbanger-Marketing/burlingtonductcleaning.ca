@@ -1,2 +1,25 @@
 # Burlington Duct Cleaning
-HVAC services in Ontario.
+
+> Burlington Duct Cleaning is a local HVAC company serving Burlington, Halton, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 637-4218  |  Email: contact@burlingtonductcleaning.ca  |  Website: https://burlingtonductcleaning.ca
+
+## Key pages
+
+- [Home](https://burlingtonductcleaning.ca/): Burlington Duct Cleaning homepage with service overview and FAQ
+- [About](https://burlingtonductcleaning.ca/about/): About the company and service area
+- [Contact](https://burlingtonductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://burlingtonductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Burlington, Ontario
+- [Dryer Vent Cleaning](https://burlingtonductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Burlington, Ontario
+- [Furnace & AC Cleaning](https://burlingtonductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Burlington, Ontario
+- [HRV & Ventilation Cleaning](https://burlingtonductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Burlington, Ontario
+- [Duct Sanitizing & Deodorizing](https://burlingtonductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Burlington, Ontario
+- [Duct Sealing & Repair](https://burlingtonductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Burlington, Ontario
+- [Commercial Duct Cleaning](https://burlingtonductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Burlington, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Burlington are answered on the homepage.
